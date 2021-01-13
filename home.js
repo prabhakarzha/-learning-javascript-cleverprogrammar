@@ -61,6 +61,43 @@ console.log(result);
 sumNumbers(10,10);
 
 
+/*while loops
+var num = 0;
+
+while (num<100){
+    num+=1;
+    console.log(num);
+}
+
+*/
+
+//for loop
+
+for (let num =0; num<=100; num++){
+    console.log(num);
+}
+//data types
+var yourAge =18;
+let yourName ='Bob';
+let name ={first:'sonu',last:'kashyap'}; //object
+let truth = false;
+let groceries =['apple', 'mail','mango'];
+let random;  //undefined
+let nothing =null;
+
+
+
+//string in javascript 
+
+let fruit ='banana';
+let moreFruits ='banana\guava'
+console.log(fruit.length);
+
+
+
+
+
+
 
 
 
